@@ -2,7 +2,7 @@
 
 A single-file Python 3 script (zero `pip install` dependencies) to sanity-check any URL's HTTP status, TTFB latency, TLS/SSL expiry days, and `<title>` tag from your terminal.
 
-- **Free Online Headers &amp; SEO Generator:** https://webpulse-toolkit.pages.dev
+- **Free Online Headers &amp; SEO Generator:** https://webpulse.taijibala.com
 
 ```bash
 python webpulse_lite.py https://example.com
