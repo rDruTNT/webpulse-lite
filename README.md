@@ -12,7 +12,7 @@ python webpulse_lite.py https://example.com
 
 ## Free Lite vs. WebPulse Audit Kit Pro ($9)
 
-| Feature | WebPulse Lite (Free) | [WebPulse Audit Kit Pro ($9)](https://taijibalaadmin.gumroad.com/l/millyq) |
+| Feature | WebPulse Lite (Free) | [WebPulse Audit Kit Pro ($9)](https://taijibala.gumroad.com/l/millyq) |
 |---|---|---|
 | Single-URL HTTP, TTFB & SSL Expiry | Yes | Yes |
 | Multi-Page Broken-Link Crawler (`--max-pages`, `--check-external`) | — | **Yes (Concurrent)** |
@@ -21,4 +21,4 @@ python webpulse_lite.py https://example.com
 | Client-Ready Adaptive EN / 繁體中文 HTML, Markdown & JSON Reports | — | **Yes** |
 | CI/CD Minimum Score Gate (`--min-score`) + GitHub Actions Workflow | — | **Yes** |
 
-👉 **Get the full WebPulse Audit Kit ($9):** https://taijibalaadmin.gumroad.com/l/millyq
+👉 **Get the full WebPulse Audit Kit ($9):** https://taijibala.gumroad.com/l/millyq
