@@ -1,7 +1,7 @@
 """WebPulse Lite (Free Open-Source Edition) — Quick single-URL SSL, status & title check.
 
 Full multi-page broken-link crawler, 6 security headers audit, adaptive EN/zh-TW HTML
-client reports & GitHub Actions workflow: https://taijibalaadmin.gumroad.com/l/millyq
+client reports & GitHub Actions workflow: https://taijibala.gumroad.com/l/millyq
 """
 
 from __future__ import annotations
@@ -62,7 +62,7 @@ def check_site(raw_url: str, timeout: float = 8.0) -> int:
     print(f"SSL/TLS  : {ssl_info}")
     print(f"Title    : {title}")
     print("\nNeed multi-page broken-link crawling, 6 security headers & adaptive EN/繁中 HTML client reports?")
-    print("-> WebPulse Audit Kit ($9): https://taijibalaadmin.gumroad.com/l/millyq")
+    print("-> WebPulse Audit Kit ($9): https://taijibala.gumroad.com/l/millyq")
     return 0 if 200 <= status < 400 else 1
 
 
