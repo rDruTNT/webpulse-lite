@@ -2,7 +2,8 @@
 
 A single-file Python 3 script (zero `pip install` dependencies) to sanity-check any URL's HTTP status, TTFB latency, TLS/SSL expiry days, and `<title>` tag from your terminal.
 
-- **Free Online Headers &amp; SEO Generator:** https://webpulse.taijibala.com
+- **Free Online Headers & SEO Generator:** https://webpulse.taijibala.com
+- **Quick 45-Second Video Demo:** https://youtube.com/shorts/vFnMd0hyTX4
 
 ```bash
 python webpulse_lite.py https://example.com
@@ -12,7 +13,7 @@ python webpulse_lite.py https://example.com
 
 ## Free Lite vs. WebPulse Audit Kit Pro ($9)
 
-| Feature | WebPulse Lite (Free) | [WebPulse Audit Kit Pro ($9)](https://taijibala.gumroad.com/l/millyq) |
+| Feature | WebPulse Lite (Free) | [WebPulse Audit Kit Pro ($9)](https://taijibala.gumroad.com/l/millyq?utm_source=github&utm_medium=readme&utm_campaign=webpulse_lite) |
 |---|---|---|
 | Single-URL HTTP, TTFB & SSL Expiry | Yes | Yes |
 | Multi-Page Broken-Link Crawler (`--max-pages`, `--check-external`) | — | **Yes (Concurrent)** |
@@ -21,4 +22,4 @@ python webpulse_lite.py https://example.com
 | Client-Ready Adaptive EN / 繁體中文 HTML, Markdown & JSON Reports | — | **Yes** |
 | CI/CD Minimum Score Gate (`--min-score`) + GitHub Actions Workflow | — | **Yes** |
 
-👉 **Get the full WebPulse Audit Kit ($9):** https://taijibala.gumroad.com/l/millyq
+👉 **Get the full WebPulse Audit Kit ($9):** https://taijibala.gumroad.com/l/millyq?utm_source=github&utm_medium=readme&utm_campaign=webpulse_lite
